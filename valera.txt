@@ -1,11 +1,5 @@
 [UPD]
-v=4
-build=4
+v=3
+build=3
 des=123456
 upd=122345
-qedqad
-wadaw
-daw
-da
-wdaw
-d
