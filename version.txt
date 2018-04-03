@@ -1,5 +1,5 @@
 [UPD]
-v=6
-build=6
+v=7
+build=7
 des=123456
 upd=122345
