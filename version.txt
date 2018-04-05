@@ -1,5 +1,5 @@
 [UPD]
 v=8
 build=8
-des=Мелкие фиксы проблем
-upd=Мелкие фиксы
+des=melkie fix
+upd=melkie fix
