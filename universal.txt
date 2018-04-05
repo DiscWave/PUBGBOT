@@ -1,5 +1,5 @@
 [UPD]
 v=2
 build=2
-des= 1 21212
-upd=  8545
+des=121212
+upd=8545
