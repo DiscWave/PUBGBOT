@@ -1,5 +1,5 @@
 [UPD]
 v=8
 build=8
-des=melkie fix
-upd=melkie fix
+des=121212
+upd=121212
